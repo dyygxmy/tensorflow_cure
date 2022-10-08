@@ -1,0 +1,12 @@
+[2022-07-12 08:33:40,607] [23044] [INFO] - myLog.print (myLog.py:42) -  main start
+[2022-07-12 08:33:47,332] [23044] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-12 10:23:47,144] [3212] [INFO] - myLog.print (myLog.py:42) -  main start
+[2022-07-12 10:23:53,625] [3212] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-12 10:23:54,306] [3212] [INFO] - myLog.print (myLog.py:42) -  result: 10 0 441801D11D s1OpVb02ujTGS80wzjDPNM4= OK
+[2022-07-12 10:23:54,860] [3212] [INFO] - myLog.print (myLog.py:42) -  result: 11 1 422301A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-12 10:23:55,165] [3212] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-12 10:24:00,359] [3212] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-12 10:24:05,580] [3212] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-12 10:24:10,721] [3212] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-12 10:24:15,809] [3212] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-12 10:24:21,123] [3212] [INFO] - myLog.print (myLog.py:42) -  NULL DATA

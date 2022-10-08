@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--this is a test about xml.-->
+<booklist type="science and engineering">
+ <book category="math">
+ <title>learning math</title>
+ <author>张三</author>
+ <pageNumber>561</pageNumber>
+ </book>
+ <book category="Python">
+ <title>learning Python</title>
+ <author>李四</author>
+ <pageNumber>600</pageNumber>
+ </book>
+</booklist>

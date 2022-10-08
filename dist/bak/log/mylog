@@ -1,0 +1,10 @@
+[2022-07-19 09:50:34,193] [5552] [INFO] - myLog.print (myLog.py:42) -  main start
+[2022-07-19 09:50:37,156] [5552] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-19 09:50:37,924] [5552] [INFO] - myLog.print (myLog.py:42) -  result: 10 0 441801D11D s1OpVb02ujTGS80wzjDPNM4= OK
+[2022-07-19 09:50:38,553] [5552] [INFO] - myLog.print (myLog.py:42) -  result: 11 1 422301A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-19 09:50:39,012] [5552] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-19 09:50:44,140] [5552] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-19 09:50:49,527] [5552] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-19 09:50:50,151] [5552] [INFO] - myLog.print (myLog.py:42) -  result: 10 0 441801D11D s1OpVb02ujTGS80wzjDPNM4= OK
+[2022-07-19 09:50:50,734] [5552] [INFO] - myLog.print (myLog.py:42) -  result: 11 1 422301A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-19 09:50:51,162] [5552] [INFO] - myLog.print (myLog.py:42) -  NULL DATA

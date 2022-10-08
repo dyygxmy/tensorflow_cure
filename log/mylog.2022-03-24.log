@@ -1,0 +1,14 @@
+[2022-03-24 10:45:28,173] [240] [INFO] - myLog.print (myLog.py:42) -  main start
+[2022-03-24 10:45:44,029] [240] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-03-24 10:45:44,794] [240] [INFO] - myLog.print (myLog.py:42) -  result: 10 0 441801D11D s1OpVb02ujTGS80wzjDPNM4= OK
+[2022-03-24 10:45:45,085] [240] [INFO] - myLog.print (myLog.py:42) -  result: 11 1 422301A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-03-24 10:45:45,310] [240] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-03-24 10:45:50,514] [240] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-03-24 10:45:55,723] [240] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-03-24 10:46:00,806] [240] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-03-24 10:49:33,953] [12728] [INFO] - myLog.print (myLog.py:42) -  main start
+[2022-03-24 10:49:42,959] [12728] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-03-24 10:49:43,557] [12728] [INFO] - myLog.print (myLog.py:42) -  result: 10 0 441801D11D s1OpVb02ujTGS80wzjDPNM4= OK
+[2022-03-24 10:49:43,989] [12728] [INFO] - myLog.print (myLog.py:42) -  result: 11 1 422301A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-03-24 10:49:44,390] [12728] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-03-24 10:49:49,445] [12728] [INFO] - myLog.print (myLog.py:42) -  NULL DATA

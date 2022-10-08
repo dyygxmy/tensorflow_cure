@@ -1,0 +1,75 @@
+[2022-07-11 16:00:33,051] [9980] [INFO] - myLog.print (myLog.py:42) -  main start
+[2022-07-11 16:00:37,665] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:00:42,714] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:00:47,792] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:00:52,853] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:00:57,907] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:01:02,966] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:01:08,008] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:01:13,049] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:01:18,100] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:01:23,162] [9980] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:01:28,386] [9980] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-11 16:02:46,923] [18608] [INFO] - myLog.print (myLog.py:42) -  main start
+[2022-07-11 16:02:52,473] [18608] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:02:57,528] [18608] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:03:02,574] [18608] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:03:07,631] [18608] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:03:12,686] [18608] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:04:35,990] [20364] [INFO] - myLog.print (myLog.py:42) -  main start
+[2022-07-11 16:04:43,788] [20364] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:04:48,869] [20364] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:04:54,284] [20364] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-11 16:04:56,181] [20364] [INFO] - myLog.print (myLog.py:42) -  result: 10 0 441801D11D s1OpVb02ujTGS80wzjDPNM4= OK
+[2022-07-11 16:04:57,176] [20364] [INFO] - myLog.print (myLog.py:42) -  result: 11 1 422301A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-11 16:04:57,733] [20364] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:05:02,815] [20364] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:05:07,886] [20364] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:05:12,939] [20364] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:05:18,239] [20364] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:05:23,290] [20364] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:05:28,363] [20364] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:11:54,306] [4840] [INFO] - myLog.print (myLog.py:42) -  main start
+[2022-07-11 16:12:01,070] [4840] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-11 16:12:01,932] [4840] [INFO] - myLog.print (myLog.py:42) -  result: 10 0 441801D11D s1OpVb02ujTGS80wzjDPNM4= OK
+[2022-07-11 16:12:02,231] [4840] [INFO] - myLog.print (myLog.py:42) -  result: 11 1 422301A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-11 16:12:02,464] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:07,524] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:12,566] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:17,608] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:22,665] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:27,719] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:32,769] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:37,833] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:42,905] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:48,031] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:53,080] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:12:58,126] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:03,251] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:08,416] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:13,643] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:18,699] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:23,752] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:28,810] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:33,850] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:38,903] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:43,963] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:49,050] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:54,100] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:13:59,170] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:04,210] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:09,424] [4840] [INFO] - myLog.print (myLog.py:42) -  result: 9 -1 441801A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-11 16:14:10,009] [4840] [INFO] - myLog.print (myLog.py:42) -  result: 10 0 441801D11D s1OpVb02ujTGS80wzjDPNM4= OK
+[2022-07-11 16:14:10,394] [4840] [INFO] - myLog.print (myLog.py:42) -  result: 11 1 422301A11D s1OpVb02ujTGS80wzjDPNM4= NOK
+[2022-07-11 16:14:10,628] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:15,685] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:20,773] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:25,824] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:30,885] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:35,929] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:40,998] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:46,063] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:51,123] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:14:56,191] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:15:01,255] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
+[2022-07-11 16:15:06,312] [4840] [INFO] - myLog.print (myLog.py:42) -  NULL DATA
